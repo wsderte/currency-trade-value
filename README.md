@@ -22,3 +22,8 @@
 * Любую библиотеку для работы со стором (redux, mobx и т.д.)
 * Любые библиотеки, которые считаете уместными
 
+# API между которыми выбор для приложения
+* https://rapidapi.com/natkapral/api/currency-converter5/
+* https://app.exchangerate-api.com/dashboard
+* https://docs.openexchangerates.org/
+
