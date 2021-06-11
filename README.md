@@ -25,5 +25,5 @@
 # Выбраная API для приложения
 * https://app.exchangerate-api.com/dashboard   
 
-# Бібліотека Redux
+# Бібліотека Redux для управления состоянием компонента
 * https://redux.js.org/introduction/getting-started
