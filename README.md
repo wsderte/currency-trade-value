@@ -23,7 +23,5 @@
 * Любые библиотеки, которые считаете уместными
 
 # API между которыми выбор для приложения
-* https://rapidapi.com/natkapral/api/currency-converter5/
 * https://app.exchangerate-api.com/dashboard   favorite
-* https://docs.openexchangerates.org/
 
