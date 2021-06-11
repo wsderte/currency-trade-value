@@ -25,3 +25,5 @@
 # API между которыми выбор для приложения
 * https://app.exchangerate-api.com/dashboard   favorite
 
+# Бібліотека Redux
+* https://redux.js.org/introduction/getting-started
