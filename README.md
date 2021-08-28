@@ -28,7 +28,7 @@
 # Бібліотека Redux для управления состоянием компонента
 * https://redux.js.org/introduction/getting-started
 * https://wayup.in/blog/when-and-why-redux-can-be-useful#popap_question
-* 
+
 * // documantation
 * https://tproger.ru/translations/redux-for-beginners/
 
