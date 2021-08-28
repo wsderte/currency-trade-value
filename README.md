@@ -33,6 +33,7 @@
 
 // documantation
 * https://tproger.ru/translations/redux-for-beginners/
+* https://habr.com/ru/post/439104/
 
 ![изображение](https://user-images.githubusercontent.com/31801595/131224044-2cc01a2f-d8f1-4a79-802f-f19704b40361.png)
 
